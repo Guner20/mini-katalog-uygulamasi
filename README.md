@@ -1,9 +1,9 @@
 
-Mini Katalog Uygulaması
+## Mini Katalog Uygulaması
 Bu proje, Flutter kullanılarak geliştirilmiş, modern arayüze sahip bir Mobil Ürün Kataloğu uygulamasıdır. Kullanıcılar gerçek zamanlı API verileri üzerinden ürünleri listeleyebilir, arama yapabilir, ürün detaylarını inceleyebilir ve sepet süreçlerini yönetebilir.
 
 
-Proje Hakkında Kısa Açıklama
+## Proje Hakkında Kısa Açıklama
 Uygulama, Apple Store estetiğinden esinlenilerek tasarlanmış olup şu temel özellikleri barındırır:
 
 Dinamik Listeleme: DummyJSON API kullanılarak gerçek ürün verilerinin çekilmesi.
@@ -17,7 +17,7 @@ Detay Sayfası: Ürün özelliklerini inceleme ve favorilere ekleme (Stateful si
 Checkout Süreci: Alışveriş tamamlandığında toplam tutarı gösteren onay mekanizması.
 
 
-Kullanılan Teknolojiler ve Sürüm
+## Kullanılan Teknolojiler ve Sürüm
 Flutter SDK: 3.29.1 (Stable Channel)
 
 Dart SDK: 3.7.0
